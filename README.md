@@ -1,4 +1,4 @@
-# Node.js Server Manager
+# Node.js Server Killer
 A simple Python script to easily find and manage Node.js servers running on your system. Useful for developers who frequently start and stop local web servers and need to clean up orphaned processes.
 
 ## Features
