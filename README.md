@@ -63,6 +63,3 @@ Terminated 1/1 processes successfully.
 
 ## License
 MIT License - see LICENSE file for details
-
-## Author
-Created by [techcow2](https://github.com/techcow2)
