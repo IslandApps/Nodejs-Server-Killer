@@ -6,7 +6,7 @@ Unlike v1 (which scanned *all* Node processes), **v2 focuses on the real problem
 
 ---
 
-## What’s New in v2 🚀
+## What’s New in v2 
 
 ### ✅ Smarter detection (no more guessing ports)
 v2 automatically finds Node processes that are **actively listening on network ports**, which is what causes the classic issues:
